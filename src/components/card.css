@@ -1,0 +1,26 @@
+li{
+    padding: 20px;
+    border: 2px solid silver;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    border-radius: 10px;
+}
+
+li h3{
+    color: white;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+}
+
+li .tags{
+    display: flex;
+    gap: 10px;
+}
+
+li .tags .tag{
+    background-color: skyblue;
+    color: black;
+    padding: 10px;
+    border-radius: 30px;
+}

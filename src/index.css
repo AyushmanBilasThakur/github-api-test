@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+body{
+  background-color: #02040A;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: #C8D1D9;
+}
